@@ -40,12 +40,13 @@ Ce projet est une page HTML statique présentant mon profil personnel et mes com
 - Publication d’un site statique avec GitHub Pages
 
 ## Changelog
-#### Initial commit
-
-#### Affichage et police
+#### Version 1 : Initial commit
+Affichage et police
 - Largeur fixe adaptée aussi bien aux grands écrans qu'aux petits
 - meta pour mobile
 - Importation de la police Garamond
+
+#### Version 2 : Mise à jour du CV
 
 #### Remarques
 Cette page n’est pas pensée pour être consultée sur mobile, mais elle reste lisible si nécessaire.

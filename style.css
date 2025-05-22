@@ -10,17 +10,20 @@ body {
 
 p {
     font-size: 18px;
+    color: black;
 }
 
 h1 {
     font-size: 40px;
     margin-bottom: 10px;
+    color: #1F4E79;
     font-weight: bold;
 }
 
 h2 {
     font-size: 30px;
     margin-bottom: 20px;
+    color: #1F4E79;
     font-weight: bold;
 }
 
@@ -40,13 +43,13 @@ h4 {
 
 h5 {
     font-size: 20px;
-    color : #2E74B5;
+    color: #2E74B5;
     font-weight: bold;
 }
 
 .pp-container {
     display: grid;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 35% 65%;
     grid-template-rows: auto auto auto;
     gap: 0;
     padding: 0px;
@@ -60,29 +63,29 @@ section {
 }
 
 .photo {
-    background-color: #1F4E79;
-    color: white;
+    background-color: #BDD7EE;
     text-align: center;
+    padding-bottom: 0px;
 }
 
 #photo {
-    width: 200px;
+    width: 270px;
     height: auto;
 }
 
 .presentation {
-    background-color: #1F4E79;
-    color: white;
-    text-align: center;
+    background-color: white;
+    padding-bottom: 0px;
 }
 
-.presentation p {
-    margin-bottom: 10px;
+.presentation h1,
+h2 {
+    text-align: center;
 }
 
 .infos-formation {
     background-color: #BDD7EE;
-    color: black;
+    padding-top: 0px;
 }
 
 .infos-formation p {
@@ -90,8 +93,7 @@ section {
 }
 
 .connaissances-experience {
-    background-color: white;
-    color: black;
+    padding-top: 0px;
 }
 
 section.connaissances-experience h3:first-of-type {
@@ -100,4 +102,13 @@ section.connaissances-experience h3:first-of-type {
 
 .connaissances-experience p {
     margin-top: 3px;
+}
+
+.connaissances-colonnes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    column-gap: 2rem;
+    row-gap: 0,5rem;
+    align-items: start;
 }
