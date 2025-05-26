@@ -50,5 +50,8 @@ Affichage et police
 
 #### Version 3 : Mise à jour du titre du CV
 
+#### Version 4 : 
+Push relancé car le déploiement n'a pas été effectué sur GitHub Pages
+
 #### Remarques
 Cette page n’est pas pensée pour être consultée sur mobile, mais elle reste lisible si nécessaire.
