@@ -48,5 +48,7 @@ Affichage et police
 
 #### Version 2 : Mise à jour du CV
 
+#### Version 3 : Mise à jour du titre du CV
+
 #### Remarques
 Cette page n’est pas pensée pour être consultée sur mobile, mais elle reste lisible si nécessaire.
