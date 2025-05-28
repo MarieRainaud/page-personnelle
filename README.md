@@ -53,5 +53,11 @@ Affichage et police
 #### Version 4 : 
 Push relancé car le déploiement n'a pas été effectué sur GitHub Pages
 
+#### Version 5 : Mise à jour CV
+- Couleurs
+- Disponibilité
+- Télétravail et rythme d'alternance
+- React
+
 #### Remarques
 Cette page n’est pas pensée pour être consultée sur mobile, mais elle reste lisible si nécessaire.

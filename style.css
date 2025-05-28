@@ -16,34 +16,34 @@ p {
 h1 {
     font-size: 40px;
     margin-bottom: 10px;
-    color: #1F4E79;
+    color: #2E74B5;
     font-weight: bold;
 }
 
 h2 {
     font-size: 30px;
     margin-bottom: 20px;
-    color: #1F4E79;
+    color: #00B0F0;
     font-weight: bold;
 }
 
 h3 {
     font-size: 30px;
     margin-top: 20px;
-    color: #1F4E79;
+    color: #2E74B5;
     font-weight: bold;
 }
 
 h4 {
     font-size: 22px;
     margin-top: 10px;
-    color: #2E74B5;
+    color: #00B0F0;
     font-weight: bold;
 }
 
 h5 {
     font-size: 20px;
-    color: #2E74B5;
+    color: black;
     font-weight: bold;
 }
 
@@ -88,8 +88,8 @@ h2 {
     padding-top: 0px;
 }
 
-.infos-formation p {
-    margin-top: 3px;
+.infos-formation p:first-of-type {
+    margin-top: 12px;
 }
 
 .connaissances-experience {
