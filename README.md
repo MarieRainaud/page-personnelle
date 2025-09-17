@@ -59,5 +59,10 @@ Push relancé car le déploiement n'a pas été effectué sur GitHub Pages
 - Télétravail et rythme d'alternance
 - React
 
+#### Version 6 : Mise à jour CV
+- Mise à jour des compétences
+- Mise à jour du poste
+- Mise en page
+
 #### Remarques
 Cette page n’est pas pensée pour être consultée sur mobile, mais elle reste lisible si nécessaire.
